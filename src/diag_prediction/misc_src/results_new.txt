@@ -1,0 +1,19 @@
+Dense encodings:
+
+In this we input dense representation of concepts and do categorical prediction
+to-do : from categorical to vector predictions!
+
+dim, layertype, hidden_layer size, batch_size, epochs, accuracy, top_5_accuracy
+128, GRU, 64, 128, 20, 0.0983, 0.2778
+8, GRU, 64,  256, 20, 0.0902, 0.2648 
+GRU, 128, 128, 20, 
+LSTM, 64, 128, 20, 
+LSTM, 128, 128, 20
+
+
+One-hot encodings : 
+categorical predictions.
+layertype, hidden_layer size, batch_size, epochs, accuracy, top_5_accuracy
+GRU, 64, 128, 20, 0.1358, 0.3442
+GRU, 64, 256, 20, 
+

@@ -1,0 +1,43 @@
+hid_layer, look_ahead-1, epochs, accuracy
+32, 4, 50, 0.1929
+64, 4, 10, 0.2009
+128, 4, 10, 0.2015 
+512, 4, 50, 
+
+
+64, batch_size = 128, accuracy = 0.2032
+
+
+MIMIC III
+{hid : 64, epoch:50, batch:128}
+{'0-20': 0.0, '20-40': 0.0, '40-60': 0.0, '60-80': 0.014933193607545192, '80-100': 0.33824149070649373}
+
+
+useless data count 6353
+useful data count 40167
+avg icd9-count 13.994991401547722
+hidden layer : 64num of epochs 20
+Train on 328776 samples, validate on 140904 samples
+328776/328776 [==============================] - 169s 515us/step - loss: 4.9598 - acc: 0.0684 - top_5_accuracy: 0.2146 - val_loss: 4.7536 - val_acc: 0.0921 - val_top_5_accuracy: 0.2574
+Epoch 2/20
+328776/328776 [==============================] - 163s 496us/step - loss: 4.7023 - acc: 0.0989 - top_5_accuracy: 0.2710 - val_loss: 4.6730 - val_acc: 0.1033 - val_top_5_accuracy: 0.2800
+Epoch 3/20
+328776/328776 [==============================] - 167s 507us/step - loss: 4.6595 - acc: 0.1054 - top_5_accuracy: 0.2825 - val_loss: 4.6571 - val_acc: 0.1059 - val_top_5_accuracy: 0.2843
+Epoch 4/20
+328776/328776 [==============================] - 170s 518us/step - loss: 4.6473 - acc: 0.1075 - top_5_accuracy: 0.2857 - val_loss: 4.6558 - val_acc: 0.1084 - val_top_5_accuracy: 0.2863
+Epoch 5/20
+328776/328776 [==============================] - 173s 527us/step - loss: 4.6450 - acc: 0.1085 - top_5_accuracy: 0.2875 - val_loss: 4.6606 - val_acc: 0.1101 - val_top_5_accuracy: 0.2884
+Epoch 6/20
+328776/328776 [==============================] - 168s 512us/step - loss: 4.6445 - acc: 0.1092 - top_5_accuracy: 0.2892 - val_loss: 4.6634 - val_acc: 0.1098 - val_top_5_accuracy: 0.2892
+Epoch 7/20
+328776/328776 [==============================] - 172s 524us/step - loss: 4.6463 - acc: 0.1100 - top_5_accuracy: 0.2896 - val_loss: 4.6691 - val_acc: 0.1113 - val_top_5_accuracy: 0.2899
+Epoch 8/20
+328776/328776 [==============================] - 169s 514us/step - loss: 4.6489 - acc: 0.1103 - top_5_accuracy: 0.2911 - val_loss: 4.6771 - val_acc: 0.1114 - val_top_5_accuracy: 0.2898
+Epoch 9/20
+328776/328776 [==============================] - 168s 511us/step - loss: 4.6517 - acc: 0.1105 - top_5_accuracy: 0.2914 - val_loss: 4.6827 - val_acc: 0.1126 - val_top_5_accuracy: 0.2897
+Epoch 10/20
+328776/328776 [==============================] - 162s 492us/step - loss: 4.6532 - acc: 0.1112 - top_5_accuracy: 0.2912 - val_loss: 4.6870 - val_acc: 0.1109 - val_top_5_accuracy: 0.2893
+Epoch 11/20
+328776/328776 [==============================] - 162s 492us/step - loss: 4.6556 - acc: 0.1113 - top_5_accuracy: 0.2915 - val_loss: 4.6946 - val_acc: 0.1113 - val_top_5_accuracy: 0.2897
+
+

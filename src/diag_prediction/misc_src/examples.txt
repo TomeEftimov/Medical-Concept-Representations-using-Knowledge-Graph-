@@ -1,0 +1,677 @@
+
+SOURCE 368.01group : 77 DUE TO  378.40 group : 79
+SOURCE Strabismic amblyopia DUE TO  Strabismus
+
+
+SOURCE 263.2group : 51 DUE TO  263.9 group : 51
+SOURCE Arrested development following protein-calorie malnutrition DUE TO  Deficiency of macronutrients
+
+
+SOURCE 357.3group : 83 DUE TO  239.9 group : 43
+SOURCE Paraneoplastic neuropathy DUE TO  Neoplastic disease
+
+
+SOURCE 357.3group : 83 DUE TO  239.9 group : 43
+SOURCE Paraneoplastic neuropathy DUE TO  Neoplastic disease
+
+
+SOURCE 434.01group : 97 DUE TO  434.00 group : 97
+SOURCE Cerebral infarction due to thrombosis of cerebral arteries DUE TO  Cerebral thrombosis
+
+
+SOURCE 434.11group : 97 DUE TO  434.10 group : 97
+SOURCE Cerebral infarction due to embolism of cerebral arteries DUE TO  Cerebral embolism
+
+
+SOURCE 711.77group : 188 DUE TO  134.9 group : 7
+SOURCE Helminthiasis with arthropathy of the ankle and foot DUE TO  Disease caused by parasite
+
+
+SOURCE 711.77group : 188 DUE TO  134.9 group : 7
+SOURCE Helminthiasis with arthropathy of the ankle and foot DUE TO  Disease caused by parasite
+
+
+SOURCE 711.79group : 188 DUE TO  134.9 group : 7
+SOURCE Helminthiasis with arthropathy of multiple sites DUE TO  Disease caused by parasite
+
+
+SOURCE 711.79group : 188 DUE TO  134.9 group : 7
+SOURCE Helminthiasis with arthropathy of multiple sites DUE TO  Disease caused by parasite
+
+
+SOURCE 373.34group : 78 DUE TO  695.4 group : 185
+SOURCE Discoid lupus erythematosus of eyelid DUE TO  Lupus erythematosus
+
+
+SOURCE 761.1group : 211 DUE TO  658.10 group : 178
+SOURCE Fetus or neonate affected by maternal premature rupture of membrane DUE TO  Premature rupture of membranes
+
+
+SOURCE 761.2group : 211 DUE TO  658.00 group : 178
+SOURCE Fetus or neonate affected by maternal oligohydramnios DUE TO  Oligohydramnios
+
+
+SOURCE 761.5group : 211 DUE TO  651.93 group : 182
+SOURCE Fetus or neonate affected by multiple pregnancy DUE TO  Multiple gestation
+
+
+SOURCE 762.4group : 211 DUE TO  663.00 group : 179
+SOURCE Fetus or neonate affected by prolapsed cord DUE TO  Prolapse of cord
+
+
+SOURCE 763.6group : 211 DUE TO  661.30 group : 177
+SOURCE Fetus or neonate affected by precipitate delivery DUE TO  Precipitate labor
+
+
+SOURCE 761.3group : 211 DUE TO  657.00 group : 178
+SOURCE Fetus or neonate affected by maternal polyhydramnios DUE TO  Polyhydramnios
+
+
+SOURCE 251.0group : 50 DUE TO  251.2 group : 50
+SOURCE Hypoglycaemic coma DUE TO  Hypoglycaemia
+
+
+SOURCE 716.10group : 212 DUE TO  959.9 group : 231
+SOURCE Traumatic arthropathy DUE TO  Traumatic injury (disorder)
+
+
+SOURCE 716.10group : 212 DUE TO  959.9 group : 231
+SOURCE Traumatic arthropathy DUE TO  Traumatic injury (disorder)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+SOURCE 519.02group : 225 IS A  519.0 group : 225
+SOURCE Tracheal stenosis following tracheostomy IS ATracheostomy complication
+
+
+SOURCE 519.02group : 225 IS A  519.0 group : 225
+SOURCE Tracheal stenosis following tracheostomy IS ATracheostomy complication
+
+
+SOURCE 922.1group : 226 IS A  922.9 group : 226
+SOURCE Contusion of chest IS AContusion of trunk
+
+
+SOURCE 372.31group : 78 IS A  372.30 group : 78
+SOURCE Rosacea conjunctivitis IS AConjunctivitis
+
+
+SOURCE 946.0group : 227 IS A  949.0 group : 227
+SOURCE Burns of multiple sites IS ABurn (disorder)
+
+
+SOURCE 941.14group : 227 IS A  941.04 group : 227
+SOURCE Burn erythema of chin IS ABurn of chin
+
+
+SOURCE 730.04group : 188 IS A  730.24 group : 188
+SOURCE Acute osteomyelitis of hand IS AOsteomyelitis of hand
+
+
+SOURCE 736.74group : 195 IS A  736.70 group : 195
+SOURCE Acquired claw foot IS AAcquired deformity of ankle AND/OR foot
+
+
+SOURCE 736.74group : 195 IS A  736.70 group : 195
+SOURCE Acquired claw foot IS AAcquired deformity of ankle AND/OR foot
+
+
+SOURCE 789.07group : 238 IS A  789.00 group : 238
+SOURCE Generalized abdominal pain IS AAbdominal pain
+
+
+SOURCE 339.84group : 72 IS A  784.0 group : 72
+SOURCE Benign exertional headache IS AHeadache
+
+
+SOURCE 874.02group : 222 IS A  879.8 group : 222
+SOURCE Open wound of trachea without complication IS AOpen wound without complication
+
+
+SOURCE 874.02group : 222 IS A  879.8 group : 222
+SOURCE Open wound of trachea without complication IS AOpen wound without complication
+
+
+SOURCE 720.1group : 192 IS A  726.90 group : 198
+SOURCE Spinal enthesopathy IS AEnthesopathy
+
+
+SOURCE 927.3group : 221 IS A  927.20 group : 221
+SOURCE Crushing injury of finger IS ACrushing injury of hand
+
+
+SOURCE 927.3group : 221 IS A  927.20 group : 221
+SOURCE Crushing injury of finger IS ACrushing injury of hand
+
+
+SOURCE 927.3group : 221 IS A  959.5 group : 231
+SOURCE Crushing injury of finger IS AInjury of finger
+
+
+SOURCE 902.0group : 221 IS A  902.9 group : 221
+SOURCE Injury of abdominal aorta IS AInjury of blood vessels of abdomen AND/OR pelvis
+
+
+SOURCE 902.0group : 221 IS A  902.9 group : 221
+SOURCE Injury of abdominal aorta IS AInjury of blood vessels of abdomen AND/OR pelvis
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+SOURCE 438.9group : 101 TEMPORALLY FOLLOWS  437.9 group : 99
+SOURCE Late effects of cerebrovascular disease TEMPORALLY FOLLOWS Cerebrovascular disease
+
+
+SOURCE 438.9group : 101 TEMPORALLY FOLLOWS  437.9 group : 99
+SOURCE Late effects of cerebrovascular disease TEMPORALLY FOLLOWS Cerebrovascular disease
+
+
+^^^^^
+SOURCE 907.1group : 231 TEMPORALLY FOLLOWS  959.01 group : 231
+SOURCE Late effect of injury to cranial nerve TEMPORALLY FOLLOWS Injury of head
+^^^^^
+
+SOURCE 907.1group : 231 TEMPORALLY FOLLOWS  959.01 group : 231
+SOURCE Late effect of injury to cranial nerve TEMPORALLY FOLLOWS Injury of head
+
+
+SOURCE 905.0group : 215 TEMPORALLY FOLLOWS  959.01 group : 231
+SOURCE Late effect of fracture of skull AND/OR face bones TEMPORALLY FOLLOWS Injury of head
+
+
+SOURCE 905.0group : 215 TEMPORALLY FOLLOWS  959.01 group : 231
+SOURCE Late effect of fracture of skull AND/OR face bones TEMPORALLY FOLLOWS Injury of head
+
+
+SOURCE 907.0group : 220 TEMPORALLY FOLLOWS  959.01 group : 231
+SOURCE Late effect of intracranial injury without skull fracture TEMPORALLY FOLLOWS Injury of head
+
+
+SOURCE 907.0group : 220 TEMPORALLY FOLLOWS  959.01 group : 231
+SOURCE Late effect of intracranial injury without skull fracture TEMPORALLY FOLLOWS Injury of head
+
+
+SOURCE 310.9group : 250 TEMPORALLY FOLLOWS  348.3 group : 83
+SOURCE Specific nonpsychotic mental disorders following organic brain damage TEMPORALLY FOLLOWS Disease of brain
+
+
+SOURCE 310.9group : 250 TEMPORALLY FOLLOWS  348.3 group : 83
+SOURCE Specific nonpsychotic mental disorders following organic brain damage TEMPORALLY FOLLOWS Disease of brain
+
+
+SOURCE 392.9group : 2 TEMPORALLY FOLLOWS  041.01 group : 2
+SOURCE Rheumatic chorea without heart involvement TEMPORALLY FOLLOWS Streptococcus pyogenes infection
+
+
+SOURCE 392.9group : 2 TEMPORALLY FOLLOWS  041.01 group : 2
+SOURCE Rheumatic chorea without heart involvement TEMPORALLY FOLLOWS Streptococcus pyogenes infection
+
+
+SOURCE 055.2group : 80 TEMPORALLY FOLLOWS  079.99 group : 6
+SOURCE Postmeasles otitis media TEMPORALLY FOLLOWS Viral disease
+
+
+SOURCE 055.2group : 80 TEMPORALLY FOLLOWS  079.99 group : 6
+SOURCE Postmeasles otitis media TEMPORALLY FOLLOWS Viral disease
+
+
+SOURCE 391.0group : 85 TEMPORALLY FOLLOWS  041.01 group : 2
+SOURCE Acute rheumatic pericarditis TEMPORALLY FOLLOWS Streptococcus pyogenes infection
+
+
+SOURCE 391.0group : 85 TEMPORALLY FOLLOWS  041.01 group : 2
+SOURCE Acute rheumatic pericarditis TEMPORALLY FOLLOWS Streptococcus pyogenes infection
+
+
+SOURCE 395.2group : 84 TEMPORALLY FOLLOWS  041.01 group : 2
+SOURCE Rheumatic aortic stenosis with regurgitation TEMPORALLY FOLLOWS Streptococcus pyogenes infection
+
+
+SOURCE 395.2group : 84 TEMPORALLY FOLLOWS  041.01 group : 2
+SOURCE Rheumatic aortic stenosis with regurgitation TEMPORALLY FOLLOWS Streptococcus pyogenes infection
+
+
+SOURCE 391.1group : 85 TEMPORALLY FOLLOWS  041.01 group : 2
+SOURCE Acute rheumatic endocarditis TEMPORALLY FOLLOWS Streptococcus pyogenes infection
+
+
+SOURCE 391.1group : 85 TEMPORALLY FOLLOWS  041.01 group : 2
+SOURCE Acute rheumatic endocarditis TEMPORALLY FOLLOWS Streptococcus pyogenes infection
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+SOURCE 372.31 group : 78 ASSOCIATED WITH  695.3 group : 185
+SOURCE Rosacea conjunctivitis ASSOCIATED WITH  Rosacea (disorder)
+
+
+SOURCE 567.81 group : 136 ASSOCIATED WITH  576.9 group : 137
+SOURCE Bile peritonitis ASSOCIATED WITH  Disease of biliary system
+
+
+SOURCE 567.81 group : 136 ASSOCIATED WITH  576.9 group : 137
+SOURCE Bile peritonitis ASSOCIATED WITH  Disease of biliary system
+
+
+SOURCE 377.71 group : 79 ASSOCIATED WITH  239.9 group : 43
+SOURCE Disorder of visual cortex associated with neoplasm ASSOCIATED WITH  Neoplastic disease
+
+
+SOURCE 056.71 group : 188 ASSOCIATED WITH  079.99 group : 6
+SOURCE Rubella arthritis ASSOCIATED WITH  Viral disease
+
+
+SOURCE 056.71 group : 188 ASSOCIATED WITH  079.99 group : 6
+SOURCE Rubella arthritis ASSOCIATED WITH  Viral disease
+
+
+SOURCE 366.34 group : 74 ASSOCIATED WITH  360.20 group : 79
+SOURCE Cataract in degenerative disorder ASSOCIATED WITH  Degenerative disorder of globe
+
+
+SOURCE 379.53 group : 79 ASSOCIATED WITH  369.9 group : 77
+SOURCE Visual deprivation nystagmus ASSOCIATED WITH  Visual impairment (disorder)
+
+
+SOURCE 285.21 group : 58 ASSOCIATED WITH  585.9 group : 145
+SOURCE Anemia of chronic renal failure ASSOCIATED WITH  Chronic renal failure syndrome
+
+
+SOURCE 285.21 group : 58 ASSOCIATED WITH  585.9 group : 145
+SOURCE Anemia of chronic renal failure ASSOCIATED WITH  Chronic renal failure syndrome
+
+
+SOURCE 711.20 group : 188 ASSOCIATED WITH  136.1 group : 7
+SOURCE Arthropathy in Behcet's syndrome ASSOCIATED WITH  Behcet's syndrome
+
+
+SOURCE 365.60 group : 76 ASSOCIATED WITH  360.9 group : 79
+SOURCE Glaucoma associated with ocular disorder ASSOCIATED WITH  Disorder of eye proper (disorder)
+
+
+SOURCE 713.5 group : 191 ASSOCIATED WITH  349.9 group : 83
+SOURCE Arthropathy associated with a neurological disorder ASSOCIATED WITH  Disease of nervous system
+
+
+SOURCE 376.44 group : 79 ASSOCIATED WITH  756.0 group : 204
+SOURCE Orbital deformity associated with craniofacial deformity ASSOCIATED WITH  Congenital abnormality of skull and face bones
+
+
+SOURCE 711.24 group : 188 ASSOCIATED WITH  136.1 group : 7
+SOURCE Arthropathy in Behcet's syndrome of the hand ASSOCIATED WITH  Behcet's syndrome
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+SOURCE 009.2group : 123 HAS DEFINITIONAL MANIFESTATION  787.91 group : 142
+SOURCE Infectious diarrheal disease HAS DEFINITIONAL MANIFESTATION  Diarrhea
+
+
+SOURCE 009.3group : 123 HAS DEFINITIONAL MANIFESTATION  787.91 group : 142
+SOURCE Diarrhea of presumed infectious origin HAS DEFINITIONAL MANIFESTATION  Diarrhea
+
+
+SOURCE 009.3group : 123 HAS DEFINITIONAL MANIFESTATION  787.91 group : 142
+SOURCE Diarrhea of presumed infectious origin HAS DEFINITIONAL MANIFESTATION  Diarrhea
+
+
+SOURCE 599.72group : 150 HAS DEFINITIONAL MANIFESTATION  599.7 group : 150
+SOURCE Microscopic haematuria HAS DEFINITIONAL MANIFESTATION  Hematuria
+
+
+SOURCE 599.71group : 150 HAS DEFINITIONAL MANIFESTATION  599.7 group : 150
+SOURCE Frank hematuria HAS DEFINITIONAL MANIFESTATION  Hematuria
+
+
+SOURCE 599.70group : 150 HAS DEFINITIONAL MANIFESTATION  599.7 group : 150
+SOURCE Hematuria syndrome HAS DEFINITIONAL MANIFESTATION  Hematuria
+
+
+SOURCE 446.1group : 105 HAS DEFINITIONAL MANIFESTATION  780.60 group : 233
+SOURCE Acute febrile mucocutaneous lymph node syndrome HAS DEFINITIONAL MANIFESTATION  Fever (finding)
+
+
+SOURCE 446.1group : 105 HAS DEFINITIONAL MANIFESTATION  780.60 group : 233
+SOURCE Acute febrile mucocutaneous lymph node syndrome HAS DEFINITIONAL MANIFESTATION  Fever (finding)
+
+
+SOURCE 345.50group : 71 HAS DEFINITIONAL MANIFESTATION  780.3 group : 71
+SOURCE Localisation-related epilepsy HAS DEFINITIONAL MANIFESTATION  Seizure
+
+
+SOURCE 345.3group : 71 HAS DEFINITIONAL MANIFESTATION  780.3 group : 71
+SOURCE Grand mal status HAS DEFINITIONAL MANIFESTATION  Seizure
+
+
+SOURCE 345.60group : 71 HAS DEFINITIONAL MANIFESTATION  780.3 group : 71
+SOURCE West syndrome HAS DEFINITIONAL MANIFESTATION  Seizure
+
+
+SOURCE 345.2group : 71 HAS DEFINITIONAL MANIFESTATION  780.3 group : 71
+SOURCE Petit mal status HAS DEFINITIONAL MANIFESTATION  Seizure
+
+
+SOURCE 345.90group : 71 HAS DEFINITIONAL MANIFESTATION  780.3 group : 71
+SOURCE Epilepsy HAS DEFINITIONAL MANIFESTATION  Seizure
+
+
+SOURCE 779.0group : 211 HAS DEFINITIONAL MANIFESTATION  780.3 group : 71
+SOURCE Convulsions in the newborn HAS DEFINITIONAL MANIFESTATION  Seizure
+
+
+SOURCE 345.00group : 71 HAS DEFINITIONAL MANIFESTATION  780.3 group : 71
+SOURCE Generalized non-convulsive epilepsy HAS DEFINITIONAL MANIFESTATION  Seizure
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+SOURCE 391.2group : 85 AFTER  041.01 group : 2
+SOURCE Acute rheumatic myocarditis AFTER  Streptococcus pyogenes infection
+
+
+SOURCE 398.0group : 85 AFTER  041.01 group : 2
+SOURCE Rheumatic myocarditis AFTER  Streptococcus pyogenes infection
+
+
+SOURCE 438.9group : 101 AFTER  437.9 group : 99
+SOURCE Late effects of cerebrovascular disease AFTER  Cerebrovascular disease
+
+
+SOURCE 391.9group : 85 AFTER  041.01 group : 2
+SOURCE Acute rheumatic heart disease AFTER  Streptococcus pyogenes infection
+
+
+SOURCE 392.9group : 2 AFTER  041.01 group : 2
+SOURCE Rheumatic chorea without heart involvement AFTER  Streptococcus pyogenes infection
+
+
+SOURCE 391.0group : 85 AFTER  041.01 group : 2
+SOURCE Acute rheumatic pericarditis AFTER  Streptococcus pyogenes infection
+
+
+SOURCE 395.2group : 84 AFTER  041.01 group : 2
+SOURCE Rheumatic aortic stenosis with regurgitation AFTER  Streptococcus pyogenes infection
+
+
+SOURCE 391.1group : 85 AFTER  041.01 group : 2
+SOURCE Acute rheumatic endocarditis AFTER  Streptococcus pyogenes infection
+
+
+SOURCE 397.1group : 84 AFTER  041.01 group : 2
+SOURCE Rheumatic disease of pulmonary valve AFTER  Streptococcus pyogenes infection
+
+
+SOURCE 056.71group : 188 AFTER  079.99 group : 6
+SOURCE Rubella arthritis AFTER  Viral disease
+
+
+SOURCE 056.71group : 188 AFTER  079.99 group : 6
+SOURCE Rubella arthritis AFTER  Viral disease
+
+
+SOURCE 398.90group : 85 AFTER  041.01 group : 2
+SOURCE Rheumatic heart disease AFTER  Streptococcus pyogenes infection
+
+
+SOURCE 394.1group : 84 AFTER  041.01 group : 2
+SOURCE Rheumatic mitral regurgitation AFTER  Streptococcus pyogenes infection
+
+
+SOURCE 907.1group : 231 AFTER  951.9 group : 231
+SOURCE Late effect of injury to cranial nerve AFTER  Injury of cranial nerve
+
+
+SOURCE 905.0group : 215 AFTER  959.01 group : 231
+SOURCE Late effect of fracture of skull AND/OR face bones AFTER  Injury of head
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+SOURCE V12.5group : 105 ASSOCIATED FINDING  459.9 group : 105
+SOURCE H/O: cardiovascular disease ASSOCIATED FINDING  Disease of cardiovascular system
+
+
+SOURCE V12.5group : 105 ASSOCIATED FINDING  459.9 group : 105
+SOURCE H/O: cardiovascular disease ASSOCIATED FINDING  Disease of cardiovascular system
+
+
+SOURCE V12.5group : 105 ASSOCIATED FINDING  459.9 group : 105
+SOURCE H/O: cardiovascular disease ASSOCIATED FINDING  Disease of cardiovascular system
+
+
+SOURCE V17.3group : 246 ASSOCIATED FINDING  459.9 group : 105
+SOURCE Family history of ischemic heart disease ASSOCIATED FINDING  Disease of cardiovascular system
+
+
+SOURCE V17.3group : 246 ASSOCIATED FINDING  459.9 group : 105
+SOURCE Family history of ischemic heart disease ASSOCIATED FINDING  Disease of cardiovascular system
+
+
+SOURCE 416.1group : 91 ASSOCIATED FINDING  417.9 group : 91
+SOURCE Kyphoscoliotic heart disease ASSOCIATED FINDING  Disease of pulmonary circulation
+
+
+SOURCE 416.1group : 91 ASSOCIATED FINDING  417.9 group : 91
+SOURCE Kyphoscoliotic heart disease ASSOCIATED FINDING  Disease of pulmonary circulation
+
+
+SOURCE 415.0group : 91 ASSOCIATED FINDING  417.9 group : 91
+SOURCE Acute cor pulmonale ASSOCIATED FINDING  Disease of pulmonary circulation
+
+
+SOURCE 415.0group : 91 ASSOCIATED FINDING  417.9 group : 91
+SOURCE Acute cor pulmonale ASSOCIATED FINDING  Disease of pulmonary circulation
+
+
+SOURCE 416.9group : 91 ASSOCIATED FINDING  417.9 group : 91
+SOURCE Chronic pulmonary heart disease ASSOCIATED FINDING  Disease of pulmonary circulation
+
+
+SOURCE 416.9group : 91 ASSOCIATED FINDING  417.9 group : 91
+SOURCE Chronic pulmonary heart disease ASSOCIATED FINDING  Disease of pulmonary circulation
+
+
+SOURCE V17.81group : 246 ASSOCIATED FINDING  733.00 group : 193
+SOURCE FH: Osteoporosis ASSOCIATED FINDING  Osteoporosis
+
+
+SOURCE V17.81group : 246 ASSOCIATED FINDING  733.00 group : 193
+SOURCE FH: Osteoporosis ASSOCIATED FINDING  Osteoporosis
+
+
+SOURCE V17.81group : 246 ASSOCIATED FINDING  733.00 group : 193
+SOURCE FH: Osteoporosis ASSOCIATED FINDING  Osteoporosis
+
+
+SOURCE V19.4group : 246 ASSOCIATED FINDING  709.9 group : 187
+SOURCE FH: Skin disease ASSOCIATED FINDING  Disease of skin AND/OR subcutaneous tissue
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+SOURCE 391.2group : 85 ASSOCIATED ETIOLOGIC FINDING  041.01 group : 2
+SOURCE Acute rheumatic myocarditis ASSOCIATED ETIOLOGIC FINDING  Streptococcus pyogenes infection
+
+
+SOURCE 391.2group : 85 ASSOCIATED ETIOLOGIC FINDING  041.01 group : 2
+SOURCE Acute rheumatic myocarditis ASSOCIATED ETIOLOGIC FINDING  Streptococcus pyogenes infection
+
+
+SOURCE 398.0group : 85 ASSOCIATED ETIOLOGIC FINDING  041.01 group : 2
+SOURCE Rheumatic myocarditis ASSOCIATED ETIOLOGIC FINDING  Streptococcus pyogenes infection
+
+
+SOURCE 398.0group : 85 ASSOCIATED ETIOLOGIC FINDING  041.01 group : 2
+SOURCE Rheumatic myocarditis ASSOCIATED ETIOLOGIC FINDING  Streptococcus pyogenes infection
+
+
+SOURCE 391.9group : 85 ASSOCIATED ETIOLOGIC FINDING  041.01 group : 2
+SOURCE Acute rheumatic heart disease ASSOCIATED ETIOLOGIC FINDING  Streptococcus pyogenes infection
+
+
+SOURCE 391.9group : 85 ASSOCIATED ETIOLOGIC FINDING  041.01 group : 2
+SOURCE Acute rheumatic heart disease ASSOCIATED ETIOLOGIC FINDING  Streptococcus pyogenes infection
+
+
+SOURCE 392.9group : 2 ASSOCIATED ETIOLOGIC FINDING  041.01 group : 2
+SOURCE Rheumatic chorea without heart involvement ASSOCIATED ETIOLOGIC FINDING  Streptococcus pyogenes infection
+
+
+SOURCE 392.9group : 2 ASSOCIATED ETIOLOGIC FINDING  041.01 group : 2
+SOURCE Rheumatic chorea without heart involvement ASSOCIATED ETIOLOGIC FINDING  Streptococcus pyogenes infection
+
+
+SOURCE 391.0group : 85 ASSOCIATED ETIOLOGIC FINDING  041.01 group : 2
+SOURCE Acute rheumatic pericarditis ASSOCIATED ETIOLOGIC FINDING  Streptococcus pyogenes infection
+
+
+SOURCE 391.0group : 85 ASSOCIATED ETIOLOGIC FINDING  041.01 group : 2
+SOURCE Acute rheumatic pericarditis ASSOCIATED ETIOLOGIC FINDING  Streptococcus pyogenes infection
+
+
+SOURCE 395.2group : 84 ASSOCIATED ETIOLOGIC FINDING  041.01 group : 2
+SOURCE Rheumatic aortic stenosis with regurgitation ASSOCIATED ETIOLOGIC FINDING  Streptococcus pyogenes infection
+
+
+SOURCE 395.2group : 84 ASSOCIATED ETIOLOGIC FINDING  041.01 group : 2
+SOURCE Rheumatic aortic stenosis with regurgitation ASSOCIATED ETIOLOGIC FINDING  Streptococcus pyogenes infection
+
+
+SOURCE 391.1group : 85 ASSOCIATED ETIOLOGIC FINDING  041.01 group : 2
+SOURCE Acute rheumatic endocarditis ASSOCIATED ETIOLOGIC FINDING  Streptococcus pyogenes infection
+
+
+SOURCE 391.1group : 85 ASSOCIATED ETIOLOGIC FINDING  041.01 group : 2
+SOURCE Acute rheumatic endocarditis ASSOCIATED ETIOLOGIC FINDING  Streptococcus pyogenes infection
+
+
+SOURCE 397.1group : 84 ASSOCIATED ETIOLOGIC FINDING  041.01 group : 2
+SOURCE Rheumatic disease of pulmonary valve ASSOCIATED ETIOLOGIC FINDING  Streptococcus pyogenes infection
+
+
+SOURCE 397.1group : 84 ASSOCIATED ETIOLOGIC FINDING  041.01 group : 2
+SOURCE Rheumatic disease of pulmonary valve ASSOCIATED ETIOLOGIC FINDING  Streptococcus pyogenes infection
+
+
+SOURCE 398.90group : 85 ASSOCIATED ETIOLOGIC FINDING  041.01 group : 2
+SOURCE Rheumatic heart disease ASSOCIATED ETIOLOGIC FINDING  Streptococcus pyogenes infection
+
+
+SOURCE 398.90group : 85 ASSOCIATED ETIOLOGIC FINDING  041.01 group : 2
+SOURCE Rheumatic heart disease ASSOCIATED ETIOLOGIC FINDING  Streptococcus pyogenes infection
+
+
+SOURCE 394.1group : 84 ASSOCIATED ETIOLOGIC FINDING  041.01 group : 2
+SOURCE Rheumatic mitral regurgitation ASSOCIATED ETIOLOGIC FINDING  Streptococcus pyogenes infection
+
+
+SOURCE 394.1group : 84 ASSOCIATED ETIOLOGIC FINDING  041.01 group : 2
+SOURCE Rheumatic mitral regurgitation ASSOCIATED ETIOLOGIC FINDING  Streptococcus pyogenes infection
+
+
+SOURCE 397.9group : 84 ASSOCIATED ETIOLOGIC FINDING  041.01 group : 2
+SOURCE Rheumatic endocarditis ASSOCIATED ETIOLOGIC FINDING  Streptococcus pyogenes infection
+
+
+SOURCE 397.9group : 84 ASSOCIATED ETIOLOGIC FINDING  041.01 group : 2
+SOURCE Rheumatic endocarditis ASSOCIATED ETIOLOGIC FINDING  Streptococcus pyogenes infection
+
+
+SOURCE 392.0group : 85 ASSOCIATED ETIOLOGIC FINDING  041.01 group : 2
+SOURCE Rheumatic chorea with heart involvement ASSOCIATED ETIOLOGIC FINDING  Streptococcus pyogenes infection
+
+
+SOURCE 392.0group : 85 ASSOCIATED ETIOLOGIC FINDING  041.01 group : 2
+SOURCE Rheumatic chorea with heart involvement ASSOCIATED ETIOLOGIC FINDING  Streptococcus pyogenes infection
+
+
+SOURCE 395.0group : 84 ASSOCIATED ETIOLOGIC FINDING  041.01 group : 2
+SOURCE Rheumatic aortic stenosis ASSOCIATED ETIOLOGIC FINDING  Streptococcus pyogenes infection
+
+
+SOURCE 395.0group : 84 ASSOCIATED ETIOLOGIC FINDING  041.01 group : 2
+SOURCE Rheumatic aortic stenosis ASSOCIATED ETIOLOGIC FINDING  Streptococcus pyogenes infection
+
+
+SOURCE 517.1group : 110 ASSOCIATED ETIOLOGIC FINDING  041.01 group : 2
+SOURCE Rheumatic pneumonia ASSOCIATED ETIOLOGIC FINDING  Streptococcus pyogenes infection
+
+
+SOURCE 517.1group : 110 ASSOCIATED ETIOLOGIC FINDING  041.01 group : 2
+SOURCE Rheumatic pneumonia ASSOCIATED ETIOLOGIC FINDING  Streptococcus pyogenes infection
+
+
+SOURCE 395.1group : 84 ASSOCIATED ETIOLOGIC FINDING  041.01 group : 2
+SOURCE Rheumatic aortic regurgitation ASSOCIATED ETIOLOGIC FINDING  Streptococcus pyogenes infection
+
+
+SOURCE 395.1group : 84 ASSOCIATED ETIOLOGIC FINDING  041.01 group : 2
+SOURCE Rheumatic aortic regurgitation ASSOCIATED ETIOLOGIC FINDING  Streptococcus pyogenes infection
+
+
+SOURCE 394.2group : 84 ASSOCIATED ETIOLOGIC FINDING  041.01 group : 2
+SOURCE Rheumatic mitral stenosis with regurgitation ASSOCIATED ETIOLOGIC FINDING  Streptococcus pyogenes infection
+
+
+SOURCE 394.2group : 84 ASSOCIATED ETIOLOGIC FINDING  041.01 group : 2
+SOURCE Rheumatic mitral stenosis with regurgitation ASSOCIATED ETIOLOGIC FINDING  Streptococcus pyogenes infection
+
+
+SOURCE 398.91group : 96 ASSOCIATED ETIOLOGIC FINDING  041.01 group : 2
+SOURCE Congestive rheumatic heart failure ASSOCIATED ETIOLOGIC FINDING  Streptococcus pyogenes infection
+
+
+SOURCE 398.91group : 96 ASSOCIATED ETIOLOGIC FINDING  041.01 group : 2
+SOURCE Congestive rheumatic heart failure ASSOCIATED ETIOLOGIC FINDING  Streptococcus pyogenes infection
+
+
+SOURCE 714.4group : 189 ASSOCIATED ETIOLOGIC FINDING  041.01 group : 2
+SOURCE Jaccoud's syndrome ASSOCIATED ETIOLOGIC FINDING  Streptococcus pyogenes infection
+
+
+SOURCE 714.4group : 189 ASSOCIATED ETIOLOGIC FINDING  041.01 group : 2
+SOURCE Jaccoud's syndrome ASSOCIATED ETIOLOGIC FINDING  Streptococcus pyogenes infection
+
+
+SOURCE 394.0group : 84 ASSOCIATED ETIOLOGIC FINDING  041.01 group : 2
+SOURCE Rheumatic mitral stenosis ASSOCIATED ETIOLOGIC FINDING  Streptococcus pyogenes infection
+
+
+SOURCE 394.0group : 84 ASSOCIATED ETIOLOGIC FINDING  041.01 group : 2
+SOURCE Rheumatic mitral stenosis ASSOCIATED ETIOLOGIC FINDING  Streptococcus pyogenes infection
+
+
+SOURCE 434.01group : 97 ASSOCIATED ETIOLOGIC FINDING  434.00 group : 97
+SOURCE Cerebral infarction due to thrombosis of cerebral arteries ASSOCIATED ETIOLOGIC FINDING  Cerebral thrombosis
+
+
+SOURCE 434.01group : 97 ASSOCIATED ETIOLOGIC FINDING  434.00 group : 97
+SOURCE Cerebral infarction due to thrombosis of cerebral arteries ASSOCIATED ETIOLOGIC FINDING  Cerebral thrombosis
+
+
+SOURCE 434.11group : 97 ASSOCIATED ETIOLOGIC FINDING  434.10 group : 97
+SOURCE Cerebral infarction due to embolism of cerebral arteries ASSOCIATED ETIOLOGIC FINDING  Cerebral embolism
+
+
+SOURCE 434.11group : 97 ASSOCIATED ETIOLOGIC FINDING  434.10 group : 97
+SOURCE Cerebral infarction due to embolism of cerebral arteries ASSOCIATED ETIOLOGIC FINDING  Cerebral embolism
+
+
+SOURCE 711.77group : 188 ASSOCIATED ETIOLOGIC FINDING  134.9 group : 7
+SOURCE Helminthiasis with arthropathy of the ankle and foot ASSOCIATED ETIOLOGIC FINDING  Disease caused by parasite
+
+
+SOURCE 711.77group : 188 ASSOCIATED ETIOLOGIC FINDING  134.9 group : 7
+SOURCE Helminthiasis with arthropathy of the ankle and foot ASSOCIATED ETIOLOGIC FINDING  Disease caused by parasite
+
+
+SOURCE 711.79group : 188 ASSOCIATED ETIOLOGIC FINDING  134.9 group : 7
+SOURCE Helminthiasis with arthropathy of multiple sites ASSOCIATED ETIOLOGIC FINDING  Disease caused by parasite
+
+
+SOURCE 711.79group : 188 ASSOCIATED ETIOLOGIC FINDING  134.9 group : 7
+SOURCE Helminthiasis with arthropathy of multiple sites ASSOCIATED ETIOLOGIC FINDING  Disease caused by parasite
+
+
+SOURCE 357.3group : 83 ASSOCIATED ETIOLOGIC FINDING  239.9 group : 43
+SOURCE Paraneoplastic neuropathy ASSOCIATED ETIOLOGIC FINDING  Neoplastic disease
+
+
+SOURCE 357.3group : 83 ASSOCIATED ETIOLOGIC FINDING  239.9 group : 43
+SOURCE Paraneoplastic neuropathy ASSOCIATED ETIOLOGIC FINDING  Neoplastic disease

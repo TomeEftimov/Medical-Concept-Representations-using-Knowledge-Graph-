@@ -1,0 +1,140 @@
+[42752001 'Due to']
+[309824003 'Instrumentation']
+[370133003 'Specimen substance (attribute)']
+[704319004 'Inheres in']
+[246100006 'Onset']
+[370132008 'Scale type (attribute)']
+[371881003 'During (attribute)']
+[726633004 'Temporally related to (attribute)']
+[424361007 'Using substance (attribute)']
+[363710007 'Indirect device']
+[704318007 'Property type']
+[370131001 'Recipient category (attribute)']
+[732947008 'Has presentation strength denominator unit (attribute)']
+[123005000 'Part of']
+[363709002 'Indirect morphology']
+[260669005 'Approach']
+[370130000 'Property (attribute)']
+[732946004 'Has presentation strength denominator value']
+[363708005 'Temporally follows']
+[732945000 'Has presentation strength numerator unit']
+[370129005 'Measurement Method (attribute)']
+[258214002 'Stage']
+[246267002 'Location']
+[246075003 'Causative agent']
+[131195008 'Subject of information']
+[732944001 'Has presentation strength numerator value (attribute)']
+[246501002 'Technique']
+[272741003 'Laterality']
+[260858005 'Extent']
+[419066007 'Finding informer (attribute)']
+[261583007 'Using']
+[370127007 'Access instrument (attribute)']
+[732943007 'Has basis of strength substance (attribute)']
+[363705008 'Has definitional manifestation']
+[726542003 'Has disposition (attribute)']
+[260686004 'Method']
+[263502005 'Clinical course']
+[116686009 'Has specimen']
+[719715003 'Relative to part of (attribute)']
+[246456000 'Episodicity']
+[405816004 'Procedure morphology (attribute)']
+[363704007 'Procedure site']
+[246093002 'Component']
+[424226004 'Using device (attribute)']
+[405815000 'Procedure device (attribute)']
+[363703001 'Has intent']
+[718497002 'Inherent location (attribute)']
+[405814001 'Procedure site - Indirect (attribute)']
+[246454002 'Occurrence']
+[363702006 'Has focus']
+[116683001 'Associated function']
+[246112005 'Severity']
+[363701004 'Direct substance']
+[405813007 'Procedure site - Direct (attribute)']
+[246090004 'Associated finding']
+[363700003 'Direct morphology']
+[424244007 'Using energy (attribute)']
+[308489006 'Pathological process']
+[410675002 'Route of administration (attribute)']
+[363699004 'Direct device']
+[116680003 'Is a']
+[367346004 'Measures']
+[363698007 'Finding site']
+[704327008 'Direct site (attribute)']
+[736476002 'Has basic dose form (attribute)']
+[408732007 'Subject relationship context (attribute)']
+[246513007 'Revision status']
+[704326004 'Precondition (attribute)']
+[736518005 'Has state of matter (attribute)']
+[408731000 'Temporal context (attribute)']
+[260870009 'Priority']
+[260507000 'Access']
+[116678009 'Has measured component']
+[736475003 'Has dose form release characteristic (attribute)']
+[118171006 'Specimen procedure']
+[363589002 'Associated procedure']
+[47429007 'Associated with']
+[408730004 'Procedure context (attribute)']
+[736474004 'Has dose form intended site (attribute)']
+[118170007 'Specimen source identity']
+[263535000 'Communication with wound']
+[425391005 'Using access device (attribute)']
+[704324001 'Process output']
+[116676008 'Associated morphology']
+[736473005 'Has dose form transformation (attribute)']
+[118169006 'Specimen source topography']
+[408729009 'Finding context (attribute)']
+[363715002 'Associated etiologic finding']
+[736472000 'Has dose form administration method (attribute)']
+[118168003 'Specimen source morphology']
+[255234002 'After']
+[363714003 'Interprets']
+[370135005 'Pathological process (attribute)']
+[418775008 'Finding method (attribute)']
+[411116001 'Has dose form (attribute)']
+[260908002 'Course']
+[424876005 'Surgical approach (attribute)']
+[127489000 'Has active ingredient']
+[363713009 'Has interpretation']
+[704321009 'Characterizes (attribute)']
+[370134009 'Time aspect (attribute)']
+
+----------------------------------------------------------------------------------------------------------------------------
+Things to consider in snomed ct (these are the only relations which have icd9 mappings in both source and destination)
+----------------------------------------------------------------------------------------------------------------------------
+[42752001 'Due to'] number of rules = 28
+[260908002 'Course'] 
+[116680003 'Is a']   1002
+[363708005 'Temporally follows']  13
+[116676008 'Associated morphology'] 
+[308489006 'Pathological process']  
+[47429007 'Associated with']. 32
+[363705008 'Has definitional manifestation'] 16
+[255234002 'After'] 32
+[363714003 'Interprets']
+[246090004 'Associated finding']   52
+[363715002 'Associated etiologic finding'] 9
+[246075003 'Causative agent']
+
+
+due to and after have almost the same adj matrices (have to check this!)
+
+
+Observation : 
+There was no "E-" code available in the mapping.
+
+to do : (I think we should be able to guess not all the codes but some particular icd9 codes only)
+collapse the hierarchy and then check later.
+how do we combine these various representations in the relation together.
+
+-------------------------------
+[246075003 'Causative agent']
+-------------------------------
+SOURCE Infection by Cysticercus cellulosae CAUSATIVE AGENT Cysticercus cellulosae
+
+SOURCE Progressive rubella panencephalitis CAUSATIVE AGENT Rubella virus
+
+SOURCE Infection by Schistosoma CAUSATIVE AGENT Schistosom
+
+

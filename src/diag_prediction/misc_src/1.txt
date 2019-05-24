@@ -1,0 +1,6 @@
+dense = true
+acc : 0.137
+multilabel : 0.2624405260020106
+
+dense = false
+multilabel : 0.2669235588414452

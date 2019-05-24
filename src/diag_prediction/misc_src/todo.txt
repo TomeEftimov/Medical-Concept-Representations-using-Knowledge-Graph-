@@ -1,0 +1,15 @@
+things to do : 
+
+> attention mechanism add and check 
+
+> test out dense representations by adding a dense layer before lstm 
+
+> think of regularization as a parameter for training 
+  -- try to normalize the regularized term
+
+> build the hierarchy
+
+> have to fix the training data as constant can’t use random stuff anymore
+> have to build the hierarchy
+
+> check with svm (is there significant difference) and other classifiers

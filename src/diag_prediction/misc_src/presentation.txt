@@ -1,0 +1,15 @@
+After 20 epochs, using hidden layer : 64 and batch size: 64 with 6 random trials
+
+with drug and diagnosis codes : accuracy = 0.4546145132351347  (lookahead = 2)   
+with drug and diagnosis codes : accuracy =  0.4818208487677042  (lookahead = 3)  
+with drug and diagnosis codes : accuracy = 0.47894416003568213  (lookahead = 4)    
+with drug and diagnosis codes : accuracy =  0.44072525294399334	(lookahead = 5)  
+with drug and diagnosis codes : accuracy = 0.3865760387434632	(lookahead = 6)   
+
+
+with diagnosis codes  : accuracy =  0.47511065013315323(lookahead = 2)
+with diagnosis codes  : accuracy = 0.4999995705089262(lookahead = 3)
+with diagnosis codes  : accuracy = 0.4505495021109007(lookahead = 4)
+with diagnosis codes  : accuracy = 0.4357137251725331(lookahead = 5)
+with diagnosis codes  : accuracy = 0.41215183115212173(lookahead = 6)
+
